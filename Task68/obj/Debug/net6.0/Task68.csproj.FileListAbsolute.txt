@@ -1,0 +1,15 @@
+D:\Codering\Языки программирования\C#\C# семинары\Homework\Homework_seminar_C_sharp_9\Homework_seminar09_C\Task68\bin\Debug\net6.0\Task68.exe
+D:\Codering\Языки программирования\C#\C# семинары\Homework\Homework_seminar_C_sharp_9\Homework_seminar09_C\Task68\bin\Debug\net6.0\Task68.deps.json
+D:\Codering\Языки программирования\C#\C# семинары\Homework\Homework_seminar_C_sharp_9\Homework_seminar09_C\Task68\bin\Debug\net6.0\Task68.runtimeconfig.json
+D:\Codering\Языки программирования\C#\C# семинары\Homework\Homework_seminar_C_sharp_9\Homework_seminar09_C\Task68\bin\Debug\net6.0\Task68.dll
+D:\Codering\Языки программирования\C#\C# семинары\Homework\Homework_seminar_C_sharp_9\Homework_seminar09_C\Task68\bin\Debug\net6.0\Task68.pdb
+D:\Codering\Языки программирования\C#\C# семинары\Homework\Homework_seminar_C_sharp_9\Homework_seminar09_C\Task68\obj\Debug\net6.0\Task68.csproj.AssemblyReference.cache
+D:\Codering\Языки программирования\C#\C# семинары\Homework\Homework_seminar_C_sharp_9\Homework_seminar09_C\Task68\obj\Debug\net6.0\Task68.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codering\Языки программирования\C#\C# семинары\Homework\Homework_seminar_C_sharp_9\Homework_seminar09_C\Task68\obj\Debug\net6.0\Task68.AssemblyInfoInputs.cache
+D:\Codering\Языки программирования\C#\C# семинары\Homework\Homework_seminar_C_sharp_9\Homework_seminar09_C\Task68\obj\Debug\net6.0\Task68.AssemblyInfo.cs
+D:\Codering\Языки программирования\C#\C# семинары\Homework\Homework_seminar_C_sharp_9\Homework_seminar09_C\Task68\obj\Debug\net6.0\Task68.csproj.CoreCompileInputs.cache
+D:\Codering\Языки программирования\C#\C# семинары\Homework\Homework_seminar_C_sharp_9\Homework_seminar09_C\Task68\obj\Debug\net6.0\Task68.dll
+D:\Codering\Языки программирования\C#\C# семинары\Homework\Homework_seminar_C_sharp_9\Homework_seminar09_C\Task68\obj\Debug\net6.0\refint\Task68.dll
+D:\Codering\Языки программирования\C#\C# семинары\Homework\Homework_seminar_C_sharp_9\Homework_seminar09_C\Task68\obj\Debug\net6.0\Task68.pdb
+D:\Codering\Языки программирования\C#\C# семинары\Homework\Homework_seminar_C_sharp_9\Homework_seminar09_C\Task68\obj\Debug\net6.0\Task68.genruntimeconfig.cache
+D:\Codering\Языки программирования\C#\C# семинары\Homework\Homework_seminar_C_sharp_9\Homework_seminar09_C\Task68\obj\Debug\net6.0\ref\Task68.dll
